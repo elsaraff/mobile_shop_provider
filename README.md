@@ -6,6 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![alt text](screenshots/1.jpeg )
+![](screenshots/1.jpeg  )
+
 ![alt text](screenshots/2.jpeg )
+
 ![alt text](screenshots/3.jpeg )
